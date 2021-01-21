@@ -1,0 +1,7 @@
+3521001
+["O'Tooley", 'Li', 'Correy', 'Khan']
+Correy has 704200 votes and got 20% of the votes
+Khan has 2218231 votes and got 63% of the votes
+OTooley has 105630 votes and got 3% of the votes
+Li has 492940 votes and got 14% of the votes
+Khan won
