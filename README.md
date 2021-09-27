@@ -1,16 +1,16 @@
-# Python Homework - Py Me Up, Charlie
+# Python - Py Me Up, Charlie
 
 ## Background
 
 Well... you've made it!
 
-It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python. In this homework assignment, you'll be using the concepts you've learned to complete the **two** Python Challenges, PyBank and PyPoll.
+It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python. In this assignment, you'll be using the concepts you've learned to complete the **two** Python Challenges, PyBank and PyPoll.
 
 Both of these challenges encompass a real-world situation where your newfound Python scripting skills can come in handy. These challenges are far from easy so expect some hard work ahead!
 
 ### Before You Begin
 
-* Create a new repository for this project called `python-challenge`. **Do not add this homework to an existing repository**.
+* Create a new repository for this project called `python-challenge`.
 
 * Clone the new repository to your computer.
 
